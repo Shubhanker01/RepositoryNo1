@@ -1,1 +1,3 @@
-loggenerator.log
+/loggenerator.log
+*.log
+/Ignore
